@@ -36,6 +36,7 @@ class ViewController: UIViewController {
         messageLabel.text = enterMessaggeTextField.text
         messageLabel.textColor = UIColor.redColor()
         
+        //Comment per Github
         nameLabel.hidden = false
         nameLabel.text = enterNameTextField.text
         nameLabel.textColor = UIColor.blueColor()
